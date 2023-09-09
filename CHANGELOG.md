@@ -3,6 +3,13 @@
 
 ### Features
 
+* core package setup ([fb00e4e](https://github.com/josegoval/clean-times/commit/fb00e4e78df4ecd48bb1256009fc2e47724e517e))
+
+# 1.0.0 (2023-09-09)
+
+
+### Features
+
 * initial version ([00f54c1](https://github.com/josegoval/clean-times/commit/00f54c16651c9f413effa2250c2578d60cbca639))
 * millisecond constants and utils ([e179d1d](https://github.com/josegoval/clean-times/commit/e179d1d9c49862c748cfab885f64f1ff13a719ee))
 * milliseconds converters and constants ([2a78029](https://github.com/josegoval/clean-times/commit/2a78029348989986a83f5be800ecb4668157fd51))
